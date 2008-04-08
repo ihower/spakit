@@ -1,0 +1,7 @@
+History.txt
+init.rb
+Manifest.txt
+Rakefile
+lib/spakit.rb
+lib/spakit_helper.rb
+README.txt

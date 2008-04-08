@@ -1,4 +1,4 @@
-Author:: Wen-Tien Chang(mailto:ihower@gmail.com), hlb(mailto:hlb@handlino.com)
+Author:: Wen-Tien Chang(mailto:ihower@handlino.com), hlb(mailto:hlb@handlino.com)
 Copyright:: Copyright (c) 2007 Handlino Inc.
 License:: Distributed under the New BSD License
 
@@ -14,6 +14,14 @@ and controller return HTML with spakit layout. Note that spakit_form_for not sup
 
 By the way, Message plugin is another SPA plugin,using different approach.
 
+== Requirements
+ * Rails 2.0.2
+
+== Install ==
+ * gem install spakit
+ * cd /your_app/vendor/plugin/
+ * gem unpack spakit
+ 
 == Usage ==
 
 For now, Spakit provide three helper:
